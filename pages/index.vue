@@ -101,11 +101,11 @@ const emailRules = ref([
                       <a
                         href="javascript:void(0)"
                         class="text-primary text-decoration-none"
-                        >Forgot pwd?</a
+                        >Forgot password?</a
                       >
                     </div>
                   </div>
-                  <v-btn color="primary" to="/" block class="py-6" submit
+                  <v-btn color="primary" to="/dashboard" block class="py-6" submit
                     >Sign In</v-btn
                   >
                 </v-form>
