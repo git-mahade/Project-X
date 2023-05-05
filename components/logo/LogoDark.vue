@@ -1,11 +1,8 @@
 <template>
   <div class="logo">
-    <RouterLink to="/" class="d-flex">
+    <NuxtLink to="/dashboard" class="d-flex">
       <img src="@/assets/images/logos/dark-logo-icon.svg" />
       <img src="@/assets/images/logos/dark-logo-text.svg" class="pl-3" />
-    </RouterLink>
+    </NuxtLink>
   </div>
 </template>
-<script setup lang="ts">
-import { RouterLink } from "vue-router";
-</script>

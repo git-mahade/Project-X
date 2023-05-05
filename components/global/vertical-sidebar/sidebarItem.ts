@@ -3,7 +3,7 @@ export default [
   {
     title: "Analytical",
     icon: "pie-chart",
-    to: "/dashboards/analytical",
+    to: "/dashboard",
   },
   {
     title: "Classic",
@@ -369,7 +369,7 @@ export default [
   {
     title: "Boxed Login",
     icon: "log-in",
-    to: "/authentication/boxedlogin",
+    to: "/",
   },
   {
     title: "Login",
