@@ -19,10 +19,13 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.9",
+    "apexcharts": "^3.40.0",
     "feather-icons": "^4.29.0",
     "pinia": "^2.0.35",
     "vue": "^3.2.47",
     "vue-feather": "^2.0.0",
+    "svgmap": "^2.7.2",
+    "vue3-apexcharts": "^1.4.1",
     "vue3-perfect-scrollbar": "^1.6.1",
     "vuetify": "^3.2.2"
   }

@@ -24,6 +24,7 @@ const customizer = useCustomizerStore();
       <HorizontalHeader v-if="customizer.setHorizontalLayout" />
       <HorizontalSidebar v-if="customizer.setHorizontalLayout" />
       <v-container fluid class="page-wrapper">
+        <slot/>
         <v-btn
           class="customizer-btn"
           variant="flat"

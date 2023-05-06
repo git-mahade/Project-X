@@ -34,14 +34,12 @@ const emailRules = ref([
                 <div class="d-flex align-center pa-10 v-col-8">
                   <div>
                     <h2 class="text-h4 text-white font-weight-medium">
-                      Elegant Design with unlimited features, built with love
+                      Welcome Back🙂
                     </h2>
                     <h6
                       class="text-subtitle-1 text-high-emphasis mt-4 text-white font-weight-regular"
                     >
-                      Wrappixel helps developers to build organized and
-                      well-coded admin dashboards full of beautiful and feature
-                      rich modules.
+                      To keep connected with us please log in with your personal information
                     </h6>
                     <v-btn
                       class="mt-6 text-capitalize"

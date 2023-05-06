@@ -1,19 +1,19 @@
 export default [
   { header: "Home" },
   {
-    title: "Analytical",
+    title: "Dashboard",
     icon: "pie-chart",
     to: "/dashboard",
   },
   {
-    title: "Classic",
-    icon: "coffee",
-    to: "/dashboards/classic",
+    title: "Graphical",
+    icon: "cpu",
+    to: "/dashboard/graphical",
   },
   {
-    title: "Demographical",
-    icon: "cpu",
-    to: "/dashboards/demographical",
+    title: "Classic",
+    icon: "coffee",
+    to: "/dashboard/classic",
   },
   {
     title: "Minimal",

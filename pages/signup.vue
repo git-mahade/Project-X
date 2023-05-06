@@ -35,13 +35,12 @@ const fnameRules = ref([
             <v-col cols="8" xl="5">
               <div>
                 <h2 class="text-h4 text-white font-weight-medium">
-                  Elegant Design with unlimited features, built with love
+                  Get started with your account
                 </h2>
                 <h6
                   class="text-subtitle-1 mt-4 text-white text-high-emphasis font-weight-regular"
                 >
-                  Wrappixel helps developers to build organized and well-coded
-                  admin dashboards full of beautiful and feature rich modules.
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia eaque delectus nihil a voluptatum illum fugit, explicabo exercitationem.
                 </h6>
                 <v-btn
                   class="mt-6 text-capitalize"
